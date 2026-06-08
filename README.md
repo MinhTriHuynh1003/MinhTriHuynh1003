@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Huỳnh Minh Trí 👋</h1>
 <h3 align="center">A dynamic Software Engineer & Web Developer passionate about building robust systems and fostering inclusive tech spaces. 🌈</h3>
 
-- 🔭 I’m currently working as a **Student** who looking for an internship, focusing on **Backend Development** and **DevOps** architecture.
+- 🔭 "I'm currently a **Computer Science Student** actively looking for an **internship**, focusing on **Backend Development** and **DevOps** architecture.
 - 🌱 I’m constantly expanding my skill set, currently diving deeper into **AWS, Azure Cloud Computing** and integrating **Machine Learning/NLP** models into practical web applications.
 - 👯 I’m looking to collaborate on scalable backend systems, innovative web projects, or open-source initiatives that drive positive community impact.
-- 💬 Ask me about **System Architecture, API design, Python, C#, Java or Haskell!**. And pls wait a little bit cause i need to go searching for the answer.
+- 💬 Ask me about **System Architecture, API design, Python, C#, Java or Haskell!**. And please wait a little bit cause i need to go searching for the answer.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an energetic and highly communicative team player who loves bridging the gap between complex technical problems and human-centric solutions. Proudly representing the LGBT+ community in tech! 🏳️‍🌈
 
